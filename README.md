@@ -42,6 +42,9 @@ Criar uma seção com quatro cartões informativos dispostos de maneira responsi
 |---------------|----------------|
 | ![Mobile](./assets/images/mobile-design.jpg) | ![Desktop](./assets/images/desktop-design.jpg) |
 
+| Versão Mobile | Versão Tablet | Versão Desktop |
+|---------------|---------------|----------------|
+| ![Mobile](./assets/images/FourCardMobile.gif) | ![Tablet](./assets/images/FourCardTablet.gif) | ![Desktop](./assets/images/FourCardDesktop.gif) |
 
 ## 🔗 Links
 - URL da solução: <a href="https://github.com/slayer-br/four-cards-feature-section" target="_blank" rel="noopener noreferrer">Four Card Feature Section</a>
